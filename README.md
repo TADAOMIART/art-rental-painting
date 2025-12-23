@@ -26,7 +26,16 @@
 
 ## 🚀 デプロイ
 
-このサイトはGitHub Pagesで自動デプロイされます。`main`ブランチにプッシュすると自動的に公開されます。
+### GitHub Pagesの設定方法
+
+1. GitHubリポジトリ: https://github.com/TADAOMIART/art-rental-painting
+2. **Settings** > **Pages** に移動
+3. **Source** を `Deploy from a branch` に設定
+4. **Branch** を `main` / `/ (root)` に設定
+5. **Save** をクリック
+6. 数分後、公開URLが表示されます
+
+**予想される公開URL:** https://tadaomiart.github.io/art-rental-painting/
 
 ## 💻 技術スタック
 
